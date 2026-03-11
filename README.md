@@ -1,5 +1,4 @@
 # frontend-practice-assignment
-# Frontend Fundamentals Practice Assignment
 
 **Instructor:** Vishanth  
 **Email:** vishanth453@gmail.com
